@@ -1114,6 +1114,17 @@ progress {
     flex: 0 0 auto;
     width: 33.33333333%;
   }
+  .form-group{
+    display: flex;
+    flex-direction: row;
+
+
+  }
+  .contactinfo{
+    flex: 0 0 auto;
+    width: 50%;
+    height: 200px;
+  }
   .col-md-5 {
     flex: 0 0 auto;
     width: 41.66666667%;
